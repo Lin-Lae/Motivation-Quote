@@ -2,6 +2,8 @@
 
 A lightweight API built with **Node.js** and **Express** that serves motivational quotes. Designed for simplicity and ease of use, no database is required.
 
+Check it live here: [Motivation Quote](https://motivation-api-50q6.onrender.com)
+
 ---
 
 ## Features ✨
