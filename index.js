@@ -3,7 +3,7 @@ import bodyParser from 'body-parser';
 import ejs from "ejs";
 
 const app = express();
-const port = 3000;
+const port = process.env.port || 3000;
 
 app.use(express.static("public"));
 app.set("view engine", "ejs");
