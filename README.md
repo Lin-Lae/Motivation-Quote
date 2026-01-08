@@ -1,4 +1,4 @@
-# Motivation Quote 🌿
+# Motivation Quote
 
 A lightweight website built with **Node.js** and **Express** that serves motivational quotes. Designed for simplicity and ease of use, no database is required.
 
@@ -6,7 +6,7 @@ Check it live here: [Motivation Quote](https://motivation-api-50q6.onrender.com)
 
 ---
 
-## Features ✨
+## Features
 - Returns motivational quotes to inspire and uplift  
 - Clean, nature-inspired design (Nature Glow theme)  
 - Lightweight — no database needed  
@@ -31,7 +31,7 @@ node index.js
 
 ### 5️⃣ Open in your browser
 Visit 👉 [http://localhost:3000](http://localhost:3000)
-and click “Inspire Me ✨” to see the magic!
+and click “Inspire Me” to see the magic!
 
 ---
 
